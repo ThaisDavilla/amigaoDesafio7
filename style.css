@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color:#cfbaf0;
+}
+h3 {
+  margin: 20px;
+}
+h2 {
+  margin: 20px;
+}
+.inicio {
+  margin-left: 100px;
+  line-height: 35px;
+}
+button {
+  margin-left: 30px;
+}
+.deixeEmail {
+  margin-left: 20px;
+  line-height: 70px;
+}
+h1 {
+  margin-left: 20px;
+}
+.adotar {
+  display:inline-block;
+  height: 50px;
+  width: 100px;
+  margin: 50px;
+  margin-left: 20px;
+  background-color: #e5e5e5;
+  border: 0px;
+  box-shadow: 4px 4px 4px gray;
+  font-weight: bold;
+}
+p {
+  margin: 20px;
+  line-height: 20px;
+}
+.voluntario {
+  margin-left: 20px;
+  width: 100px;
+  height: 30px;
+  background-color: #e5e5e5;
+  border: 0px;
+  font-weight: bold;
+}
+.pata{
+  width: 246px;
+  height: 246px;
+  border-radius: 1000px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.photo {
+  display: inline-block;
+}
+img {
+  height: 124px;
+  width: 254px;
+  left: 35px;
+  top: 1237px;
+}
+.logoFacebook {
+  width: 30px;
+  height: 30px;
+}
+.logoInstagram {
+  width: 30px;
+  height: 30px;
+}
+.logoWhatsapp {
+  width: 30px;
+  height: 30px;
+}
+.foot {
+  margin-left: 35px;
+  line-height: 35px;
+}
